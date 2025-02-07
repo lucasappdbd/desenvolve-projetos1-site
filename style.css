@@ -347,4 +347,29 @@ footer section{
     .outros-livros div img {
         align-self: center;
     }
+
+    /* CSS para ativar o modo escuro */
+.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.dark-mode header, 
+.dark-mode footer {
+    background-color: #1e1e1e;
+}
+
+.dark-mode a {
+    color: #4dabf7; /* Azul claro para links */
+}
+
+.dark-mode button {
+    background-color: #4dabf7;
+    color: #121212;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
 }
