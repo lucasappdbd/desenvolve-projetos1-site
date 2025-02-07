@@ -1,4 +1,4 @@
 # Projeto Desenvolve - Bom Despacho
 ## Disciplina: Projetos I
 ## Equipe 37
-### Matrículas: PDBD109, 
+### Matrículas: PDBD109, PDBD037,
